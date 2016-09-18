@@ -3,7 +3,7 @@ body {
 	/*color:#2a3845;*/
 	margin:0;
 	padding:0;
-	background:url('http://unsplash.com/photos/NYrVisodQ2M');
+	background:light-grey;
 }
 
 p {
@@ -44,6 +44,7 @@ p {
 #right-column {
 	width:270px;
 	float:right;
+	
 }
 
 .sidebar {
