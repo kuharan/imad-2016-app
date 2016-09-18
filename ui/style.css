@@ -24,7 +24,7 @@ p {
 
 #bg {
 	height:36px;
-	background:url('http://images.freeimages.com/images/previews/d3b/california-coast-1398086.jpg') repeat-x;
+	background:null;
 }
 
 #main-content {
@@ -40,12 +40,15 @@ p {
 	width:300px;
 	padding:0 30px 30px;
 	float:left;
+	color: #365899
+	text-decoration: none;
 }
 
 #right-column {
 	width:270px;
 	float:right;
-	
+	text-decoration: none;
+	color: #365899
 }
 
 .sidebar {
