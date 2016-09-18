@@ -24,7 +24,7 @@ p {
 
 #bg {
 	height:36px;
-	background:url('http://www.freeimages.com/photo/california-coast-1398086) repeat-x;
+	background:url('http://www.freeimages.com/photo/california-coast-1398086') repeat-x;
 }
 
 #main-content {
@@ -50,7 +50,7 @@ p {
 	width:218px;
 	margin:0 auto;
 	padding:10px 25px;
-	background:url('http://www.freeimages.com/photo/california-coast-1398086) no-repeat top;
+	background:url('http://img404.imageshack.us/img404/3092/shadowh.jpg') no-repeat top;
 }
 
 #footer {
