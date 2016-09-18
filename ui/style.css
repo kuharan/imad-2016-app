@@ -65,9 +65,10 @@ p {
 	border-top:1px solid #f0e9eb;
 	padding:10px 15px;
 	clear:both;
+	font:Arial, Helvetica, sans-serif;
 }
 
-/* Global Styling */
+
 
 a:visited, a:link {
 	color:#a43b55;
