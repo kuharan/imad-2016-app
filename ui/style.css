@@ -18,6 +18,8 @@ p {
 	width:632px;
 	border-left:1px solid #f0e9eb;
 	border-right:1px solid #f0e9eb;
+	border-width:5px;	
+    border-style:outset;
 }
 
 #header {
