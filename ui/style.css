@@ -31,7 +31,8 @@ p {
 
 #main-content {
 	margin:0 auto;
-	background-color: blue;
+	border-width:5px;	
+    border-style:outset;
 }
 
 #main-image {
