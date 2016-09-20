@@ -86,12 +86,12 @@ a:hover {
 }
 
 h1 {
-	color:#ffffff;
+	color:#365899;
 	margin:0 0 10px;
 	padding-bottom:10px;
 	font:normal 32px Arial, Helvetica, sans-serif;
 	border-bottom:1px solid #efece7;
-	margin-top:-40px;
+	margin-top:0px;
 }
 
 h2 {
